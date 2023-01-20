@@ -1,12 +1,13 @@
-<h1>This «thing» is under construction... 👨‍🎨</h1>
+### Hi there, I'm Andrii
 
-### Hi there, I'm Alexander 👋
-
-- 🔭 I’m currently working on **a lot of different stuff**
-- 🌱 I’m currently learning **everything I can get my hands on**
-- 🤔 I’m looking for help with **finding more time in a single day**
-- 📫 How to reach me: **alexander.repeta@gmail.com**
-- ⚡ Fun fact: **I love what I do - code and help people learn coding**
+- Currently I’m working on several personal projects
+- I’m eager to learn new tecknologies and now I'm mastering React Native
+- I’m looking for a job as frontend/fullstack developer
+- My Contacts:
+  - email: <a href="mailto:d4100kx@gmail.com" >d4100kx@gmail.com</a>
+  - Linkedin:
+    <a href="https://www.linkedin.com/in/andrii-radchenko-a0a44576/">Andrii
+    Radchenko</a>
 
 ### My stack
 
@@ -17,8 +18,6 @@
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
