@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrii
 
-I’m working on several personal projects and I’m open for a work as frontend/fullstack developer
+I’m working on several personal projects and I’m open to work as frontend/fullstack developer
 
 Contacts:
   - email: <a href="mailto:d4100kx@gmail.com" >d4100kx@gmail.com</a>
