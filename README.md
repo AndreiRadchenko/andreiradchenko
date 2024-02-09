@@ -1,8 +1,6 @@
 ### Hi there, I'm Andrii
 
-- Currently I’m working on several personal projects
-- I’m eager to learn new tecknologies and now I'm mastering React Native
-- I’m looking for a job as frontend/fullstack developer
+- I’m working on several personal projects and I’m open for a work as frontend/fullstack developer
 - My Contacts:
   - email: <a href="mailto:d4100kx@gmail.com" >d4100kx@gmail.com</a>
   - Linkedin:
@@ -40,3 +38,5 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+[MyWiki Docs](https://github.com/AndreiRadchenko/andreiradchenko/wiki)
